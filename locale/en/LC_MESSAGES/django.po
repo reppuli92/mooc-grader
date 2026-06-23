@@ -44,6 +44,11 @@ msgstr "Submit only %(num_files)s of the following files."
 msgid "SUBMIT"
 msgstr "Submit"
 
+#: access/templates/access/exercise_frame.html
+#: access/templates/access/graded_form.html
+msgid "RESET_FORM"
+msgstr "Reset form"
+
 #: access/templates/access/accept_general_default.html
 #: access/templates/access/accept_post_default.html
 msgid "ENTER_SUBMISSION"
